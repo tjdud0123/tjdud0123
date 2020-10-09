@@ -1,12 +1,11 @@
 ## Junior Web FE DEVELOPER `SeoYng` 입니다 👋
 
-#### 🔭 I’m currently working on 
-[Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
+#### 📫 How to reach me: tjdud0123@naver.com
+
+#### 🔭 I’m currently working on [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
+
 #### 🌱 I’m currently learning
 <img src="https://user-images.githubusercontent.com/22907830/95611782-46dd8d00-0a9d-11eb-83bd-ac6116ada559.png" width="30%">
-
-#### 📫 How to reach me:
-tjdud0123@naver.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tjdud0123&show_icons=true&theme=tokyonight)
 
