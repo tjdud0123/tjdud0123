@@ -1,4 +1,4 @@
-## Junior Web FE DEVELOPER `SeoYng` 입니다 👋
+## Junior Web FE Developer `SeoYng` 입니다 👋
 
 #### 📫 How to reach me: tjdud0123@naver.com
 
