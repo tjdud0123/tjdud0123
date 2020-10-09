@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working on [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
 
-#### 🌱 I’m currently learning / state
+#### 🌱 I’m currently learning And my stats
 <img src="https://user-images.githubusercontent.com/22907830/95611782-46dd8d00-0a9d-11eb-83bd-ac6116ada559.png" width="45%">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tjdud0123&show_icons=true&theme=tokyonight)
 
 <!--
