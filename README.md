@@ -1,4 +1,4 @@
-## Junior Web FE DEVELOPER `SeoYng` 입니다 👋
+## Junior Web FE Developer `SeoYng` 입니다 👋
 
 #### 🔭 I’m currently working on [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
 
