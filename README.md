@@ -1,7 +1,5 @@
 ## Junior Web FE Developer `SeoYng` 입니다 👋
 
-#### 🔭 I’m currently working on [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
-
 #### 🌱 I’m currently learning And my stats
 <img src="https://user-images.githubusercontent.com/22907830/95615452-36301580-0aa3-11eb-839c-efbfdbb45d3c.png" width="44%"><img src="https://github-readme-stats.vercel.app/api?username=tjdud0123&show_icons=true&theme=tokyonight" width="50%">
 
