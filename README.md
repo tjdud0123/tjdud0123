@@ -1,7 +1,7 @@
 ## Junior Web FE Developer `SeoYng` 입니다 👋
 
 
-#### 🔭 I’m currently working on [CJ ENM](https://www.cjenm.com:9003/index.html)
+#### 🔭 I’m currently working on [CJ ENM](https://www.cjenm.com:9003/index.html) - COMMERCE / UIT FRONT
 
 #### - I worked at [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
 
