@@ -1,9 +1,11 @@
 ## Junior Web FE Developer `SeoYng` 입니다 👋
 
 
-#### 🔭 I’m currently working on [CJ ENM](https://www.cjenm.com:9003/index.html) - COMMERCE / UIT FRONT
+#### 🔭 I’m currently working on [kakao](https://tech.kakao.com/2020/09/21/kakao-fe-platform-team/) - FE
 
-#### - I worked at [Market Designers - tutoring / junior](https://junior.tutoring.co.kr/)
+#### - I worked at 
+[Market Designers - tutoring / junior](https://junior.tutoring.co.kr/) <br>
+[CJ ENM](https://www.cjenm.com:9003/index.html) - COMMERCE / UIT FRONT
 
 #### 🌱 I’m currently learning And my stats
 <div align=left>
