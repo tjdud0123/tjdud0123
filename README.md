@@ -1,4 +1,4 @@
-## Junior Web FE Developer `SeoYng` 입니다 👋
+## `SeoYng` 입니다 👋
 
 
 #### 🔭 I’m currently working on [kakao](https://tech.kakao.com/2020/09/21/kakao-fe-platform-team/) - FE
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<img src="https://user-images.githubusercontent.com/22907830/158015101-f2260a6f-eb19-4333-866c-f4f5fb600a1d.png" width="44%"><img src="https://github-readme-stats.vercel.app/api?username=tjdud0123&show_icons=true&theme=tokyonight" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=tjdud0123&show_icons=true&theme=tokyonight" width="50%">
 
 <!--
 **tjdud0123/tjdud0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
